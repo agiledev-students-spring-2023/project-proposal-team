@@ -1,38 +1,30 @@
-# Project Proposal
-
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
-
-## Collaboration
-
-You are welcome to write a proposal with up to 5 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal.
-
-## What to include
-
-Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend.
-
+# Classify Proposal
 ### Project title
 
-Give your project a nice title.
+Classify
 
 ### What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+Classify is an web app that takes a Spotify users liked songs and provides an option to create playlists based on different elements of the songs (ex. artist, genre, release year, popularity, bpm, energy, danceability).
+Spotify creates playlists like these for each user but they often contain songs that are not liked and even songs that the user has never listened to. Classify focuses on songs that are liked to ensure that each playlist is more accurate to what the user actually enjoys listening to.
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+Classify is targeted towards Spotify who have hundreds to thousands of liked songs and want to sort them. 
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+From an end-user's perspective:
+* The user will first be brought to the sign-up page where they are asked to sign into Spotify.
+* The user is then brought to a screen that shows a list of their liked songs along with some of the categories that they fit into.
+* The user is able to manually edit these categories if they feel that the results are inaccurate or they want to prevent a certain song from showing up in playlists of that category.
+* There will also be an option to remove all changes and return to the default categories. There will also be an option to create a playlist.
+* Upon clicking on this, a menu appears showing all of the different categories attatched to your liked songs. The user is able to create a playlist mixing as many categories they choose.
+* Once the playlist is created, the user is given an option to save the playlist to Spotify.
 
 ### Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+The proposal for Classify is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester using Spotify's API.
 
 ## Submission
 
@@ -41,9 +33,3 @@ Complete the assignment as a Markdown document in the file named `README.md` in 
 Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
 
 Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
-
-If your proposal is selected, you are 99% guaranteed to be part of that team.
