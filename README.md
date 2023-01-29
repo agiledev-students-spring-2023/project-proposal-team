@@ -25,11 +25,3 @@ From an end-user's perspective:
 ### Scope
 
 The proposal for Classify is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester using Spotify's API.
-
-## Submission
-
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
