@@ -24,4 +24,4 @@ From an end-user's perspective:
 
 ### Scope
 
-The proposal for Classify is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester using Spotify's API.
+The proposal for Classify is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester using Spotify's API. There should be extra attention to detail when it comes to the look and functionality of the web app and more personalization features could be added if the project is too easy.
